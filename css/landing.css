@@ -8,6 +8,10 @@ body {
     font-family: Montserrat;
 }
 
+a {
+    text-decoration: none;
+}
+
 nav {
     position: fixed;
     z-index: 2;
@@ -80,10 +84,12 @@ h3{
     height: 720px;
     padding-bottom: 50px;
     padding-left: 20px;
+    text-decoration: none;
 
 }
 
 h1{
+    text-decoration: none;
     font-size: 60px;
     color: white;
     font-weight: bolder;
@@ -91,7 +97,7 @@ h1{
 
 .landing1 p {
     font-size: 36px;
-    color: #EED7FF;
+    color: #eed6ff;
     margin-left: 135px;
     width: 370px;
 }

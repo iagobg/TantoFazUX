@@ -7,7 +7,12 @@ body {
     font-family: Montserrat;
     font-weight: bold;    
     width: 1440px;
-    margin: auto; 
+    margin: auto;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
 }
 
 .main {
@@ -109,6 +114,7 @@ body {
 }
 
 .button h5 {
+    text-decoration: none;
     color: #8C00F0;
     font-size: 52px;
     padding: 20px 40px 20px 40px;
